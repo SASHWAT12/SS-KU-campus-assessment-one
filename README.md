@@ -10,4 +10,4 @@ Task:
 Deliverables: 
 Hosting URL Github page
 Github repository link to your solution.
-Time taken to complete this - 1 hour
+Time taken to complete this - 2 hour
